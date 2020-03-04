@@ -1,4 +1,16 @@
+## Build and Auto-gen
 build/
 bin/
 src-gen/
+smartsoft/*
+datasheet-gen/*
+model/*
+representations.aird
+
+## Eclipse Files
+/*/.project
+.project
 language.settings.xml
+.classpath
+.cproject
+
