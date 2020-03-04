@@ -1,7 +1,0 @@
-TargetPlatformModel SystemLaserObstacleAvoidP3dxPlayerStageSimulator
-{
-	TargetPlatformDefinition PC1
-	{
-		NetworkInterface eth2 { HostAddress "localhost" }
-	}
-}
