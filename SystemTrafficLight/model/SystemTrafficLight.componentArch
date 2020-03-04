@@ -1,9 +1,0 @@
-SystemComponentArchitecture SystemTrafficLight {
-
-ComponentInstance ComponentTrafficLight instantiates ComponentTrafficLight
-{
-	ProvidedService TrafficLightServiceIn
-} ComponentInstance ComponentTrafficLightTest instantiates ComponentTrafficLightTest
-{
-	RequiredService TrafficLightServiceOut
-} Connection ComponentTrafficLightTest.TrafficLightServiceOut -> ComponentTrafficLight.TrafficLightServiceIn }

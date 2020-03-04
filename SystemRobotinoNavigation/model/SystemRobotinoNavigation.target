@@ -1,9 +1,0 @@
-TargetPlatformModel SystemRobotinoNavigation {
-
-TargetPlatformDefinition PC1
-	{
-		Linux "Ubuntu Linux 16.04 64bit"
-		LoginAccount robotino { FullName "robotino" Email "guest@example.com" }
-		NetworkInterface eth2 { HostAddress "c26-26-robotino3" }
-		
-	} }

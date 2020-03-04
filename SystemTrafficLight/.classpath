@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="model"/>
-	<classpathentry kind="src" path="/ComponentTrafficLight"/>
-	<classpathentry kind="src" path="/ComponentTrafficLightTest"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
