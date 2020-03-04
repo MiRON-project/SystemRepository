@@ -1,7 +1,0 @@
-TargetPlatformModel SystemComparingGamppingHokuyoVsRealSense
-{
-TargetPlatformDefinition c26_25_robotino3
-	{
-		LoginAccount robotino { FullName "robotino" Email "guest@example.com" }
-		NetworkInterface eth2 { HostAddress "c26-25-robotino3" }
-	} }

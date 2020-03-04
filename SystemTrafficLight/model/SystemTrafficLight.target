@@ -1,7 +1,0 @@
-TargetPlatformModel SystemTrafficLight {
-
-TargetPlatformDefinition PC1
-	{
-		NetworkInterface eth1 { HostAddress "localhost" }
-		LoginAccount guest { FullName "Guest" Email "guest@example.com" }
-	} }
