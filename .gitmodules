@@ -1,3 +1,6 @@
 [submodule "AROSYS-Systems"]
 	path = AROSYS-Systems
 	url = git@github.com:MiRON-project/AROSYS-Systems.git
+[submodule "MIRON-Systems"]
+	path = MIRON-Systems
+	url = git@github.com:MiRON-project/MIRON-Systems.git
