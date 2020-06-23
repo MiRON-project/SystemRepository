@@ -175,7 +175,7 @@
 		"name" : "loadNavigationMap",
 		"skill-definition-fqn" : "CommNavigationObjects.NavigationModule.loadNavigationMap",
 		"in-attribute" : {
-			"map" : "String"
+			"mapname" : "String"
 		},
 		"out-attribute" : {
 		},
